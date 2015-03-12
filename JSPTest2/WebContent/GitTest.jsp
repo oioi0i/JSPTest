@@ -8,6 +8,7 @@
 </head>
 <body>
 GIT Test 한글도 잘나와 ???
+2015년 3월 12일에 저장한 것입니다.
 
 <%
 String h = new String("hhhh");
